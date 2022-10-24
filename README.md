@@ -9,3 +9,6 @@ django+djangorestframework+react
 - React:fetch JSON data ,send Json.stringfy(data)
 - Seralizers:creating seralizing models from django to client , responsible for converting objects into data types understandable by javascript (JSON/xml) and front-end frameworks.
 
+link to other projects with Django:
+* https://github.com/wiembg/CRM-Project-Django
+* https://github.com/wiembg/mapinteractive-TN
