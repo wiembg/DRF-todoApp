@@ -8,6 +8,6 @@ django+djangorestframework+react
 - Seralizers:creating seralizing models from django to client , responsible for converting objects into data types understandable by javascript (JSON/xml) and front-end frameworks, turn the model into the payload data for REST 
 ----
 
-For more projects with Django , please check those links below :) :
+For more projects with Django , please check the links below :) :
 * https://github.com/wiembg/CRM-Project-Django
 * https://github.com/wiembg/mapinteractive-TN
